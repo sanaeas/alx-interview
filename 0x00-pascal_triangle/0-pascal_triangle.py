@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Return the pascal triangle of a given size"""
 
+
 def pascal_triangle(n):
     """
     Return a list of lists of integers representing the Pascal's triangle of n
